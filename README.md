@@ -1,3 +1,3 @@
 # molepository
 im jus testing
-readmol
+readmol in bc2
