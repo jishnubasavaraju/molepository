@@ -1,0 +1,10 @@
+task1)
+    saveCaesar.sh
+     https://stackoverflow.com/questions/29886943/how-can-i-get-sed-to-change-all-of-the-instances-of-each-letter-only-once
+     https://stackoverflow.com/questions/13055889/sed-with-literal-string-not-input-file
+     https://unix.stackexchange.com/questions/9502/get-numeric-ascii-value-for-a-character
+     https://stackoverflow.com/questions/12855610/shell-script-is-there-any-way-converting-number-to-char/12855787
+    retaliation.sh
+     https://stackoverflow.com/questions/29886943/how-can-i-get-sed-to-change-all-of-the-instances-of-each-letter-only-once
+     https://stackoverflow.com/questions/13055889/sed-with-literal-string-not-input-file
+     https://unix.stackexchange.com/questions/9502/get-numeric-ascii-value-for-a-character
